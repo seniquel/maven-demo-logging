@@ -18,7 +18,7 @@
 	<logger name="dev.console" level="INFO">
 		<appender-ref ref="FILE" />
 	</logger>
-	<logger name="dev.service" level="DEBUG">
+	<logger name="dev.service" level="DEBUG" additivity="false">
 		<appender-ref ref="FILE" />
 	</logger>
 	<!-- regle de logs par defaut. Ici : niveau INFO vers la sortie standard -->

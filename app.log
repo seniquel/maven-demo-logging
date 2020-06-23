@@ -4,3 +4,31 @@
 			Implementation Logback
 10:56:02.907 [main] DEBUG dev.service.AppService -
 			Traitement 1 : param = AppService fonctionne !
+11:53:08.288 [main] INFO  dev.console.App -
+			Bonjour Slf4J !
+11:53:08.290 [main] INFO  dev.console.App -
+			Implementation Logback
+11:53:08.290 [main] DEBUG dev.service.AppService -
+			Traitement 1 : param = AppService fonctionne !
+11:55:11.754 [main] DEBUG dev.service.AppService -
+			Traitement 1 : param = AppService fonctionne !
+11:55:20.755 [main] DEBUG dev.service.AppService -
+			Traitement 1 : param = AppService fonctionne !
+11:57:18.037 [main] INFO  dev.console.App -
+			Bonjour Slf4J !
+11:57:18.040 [main] INFO  dev.console.App -
+			Implementation Logback
+11:57:18.040 [main] DEBUG dev.service.AppService -
+			Traitement 1 : param = AppService fonctionne !
+11:57:37.397 [main] INFO  dev.console.App -
+			Bonjour Slf4J !
+11:57:37.400 [main] INFO  dev.console.App -
+			Implementation Logback
+11:57:37.400 [main] DEBUG dev.service.AppService -
+			Traitement 1 : param = AppService fonctionne !
+11:57:49.617 [main] INFO  dev.console.App -
+			Bonjour Slf4J !
+11:57:49.619 [main] INFO  dev.console.App -
+			Implementation Logback
+11:57:49.619 [main] DEBUG dev.service.AppService -
+			Traitement 1 : param = AppService fonctionne !
